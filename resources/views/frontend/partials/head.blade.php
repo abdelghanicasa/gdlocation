@@ -7,7 +7,7 @@
 	<!-- Favicon Icon -->
 	<link rel="icon" href="assets/img/favicon.png">
 	<!-- Site Title -->
-	<title>-*GD Location - location de scooter de neuf</title>
+	<title>-GD Location - location de scooter de neuf</title>
 	<!-- Stylesheets -->
     <link rel="stylesheet" href="{{ asset('fe/css/bootstrap.min.css') }}">
 <link rel="stylesheet" href="{{ asset('fe/css/fontawesome.min.css') }}">
